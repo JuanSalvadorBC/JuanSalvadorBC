@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Juan Salvador</h1>
-<h3 align="center">Estuadiante de licenciatura en computacion</h3>
+<h3 align="center">Estudiante de licenciatura en computacion</h3>
 
 - 🌱 Acualmente estoy aprendiendo **typescript y git**
 
