@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy Juan Salvador</h1>
 <h2 align="center">Acerca de mi..</h2>
-<p align="left">Soy estudiante de la licenciatura en computacion, actualmente me encuetro aprendiendo el manejo los distintos lenguajes de programacion asi como las  herramientas que no ayudan en el desarrollo de nuestras aplicaciones. </p>
+<p align="left">Soy estudiante de la licenciatura en computacion, actualmente me encuetro aprendiendo el manejo los distintos lenguajes de programacion asi como las  herramientas que nos ayudan en el desarrollo de nuestras aplicaciones. </p>
 
 
 - 🌱 Acualmente estoy aprendiendo **typescript y git.**
